@@ -1,0 +1,9 @@
+INSERT INTO product (name, group_id) VALUES ('Товар 1', 1);
+INSERT INTO product (name, group_id) VALUES ('Товар 2', 1);
+INSERT INTO product (name, group_id) VALUES ('Товар 3', 1);
+INSERT INTO product (name, group_id) VALUES ('Товар 4', 2);
+INSERT INTO product (name, group_id) VALUES ('Товар 5', 2);
+INSERT INTO product (name, group_id) VALUES ('Товар 6', 2);
+INSERT INTO product (name, group_id) VALUES ('Товар 7', 3);
+INSERT INTO product (name, group_id) VALUES ('Товар 8', 3);
+INSERT INTO product (name, group_id) VALUES ('Товар 9', 3);

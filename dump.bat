@@ -1,0 +1,1 @@
+pg_dump -f seller_05_02_2013.sql -U seller --inserts seller

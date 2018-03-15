@@ -1,0 +1,29 @@
+<profiles>
+...
+
+
+
+<profile>
+    <id>seller</id>
+
+    <properties>
+        <tomcat.uri>http://localhost:8080/manager/text</tomcat.uri>
+        <tomcat.username>admin</tomcat.username>
+        <tomcat.password>tomcat</tomcat.password>
+
+        <db.driver.class>org.postgresql.Driver</db.driver.class>
+        <db.url>jdbc:postgresql://localhost:5432/seller</db.url>
+        <db.username>seller</db.username>
+        <db.password>seller</db.password>
+    </properties>
+
+</profile>
+
+...
+</profiles>
+
+  <activeProfiles>
+    <activeProfile>seller</activeProfile>
+  </activeProfiles>
+
+</settings>
